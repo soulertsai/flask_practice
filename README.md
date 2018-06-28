@@ -1,7 +1,7 @@
 # flask_practice
 
 ## 快速實作作品
-[link](https://dashboard.heroku.com/apps/powerful-coast-62530)
+[link](http://powerful-coast-62530.herokuapp.com/)
 
 ## virtualenv
 用virtualenv可以讓不同版本的flask不會因為global的東西被改變後，舊的東西因此死機。
@@ -22,3 +22,4 @@
 
 ## Reference
 1. https://www.youtube.com/watch?v=QnDWIZuWYW0&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=3&t=0s
+2. https://www.youtube.com/watch?v=N5vscPTWKOk
